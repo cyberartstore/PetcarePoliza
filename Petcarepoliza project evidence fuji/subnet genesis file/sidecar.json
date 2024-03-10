@@ -1,0 +1,30 @@
+{
+    "Name": "Petcare1",
+    "VM": "Subnet-EVM",
+    "VMVersion": "v0.6.2",
+    "RPCVersion": 34,
+    "Subnet": "Petcare1",
+    "TokenName": "PETM",
+    "ChainID": "",
+    "Version": "1.4.0",
+    "Networks": {
+        "Fuji": {
+            "SubnetID": "u6omtHLj6yJhz7q1ZXT2oDq4Yqmj2T952CUVXDD8aw64t2czn",
+            "TransferSubnetOwnershipTxID": "11111111111111111111111111111111LpoYY",
+            "BlockchainID": "4d51TweDVHf7HXspqT4NFrDs86fSSqkHWBA2927Qgkyf7Q6BL",
+            "RPCVersion": 34,
+            "TeleporterMessengerAddress": "",
+            "TeleporterRegistryAddress": ""
+        }
+    },
+    "ElasticSubnet": null,
+    "ImportedFromAPM": false,
+    "ImportedVMID": "",
+    "CustomVMRepoURL": "",
+    "CustomVMBranch": "",
+    "CustomVMBuildScript": "",
+    "TeleporterReady": true,
+    "TeleporterKey": "cli-teleporter-deployer",
+    "TeleporterVersion": "v1.0.0",
+    "SubnetEVMMainnetChainID": 0
+}
