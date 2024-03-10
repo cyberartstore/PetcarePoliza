@@ -1,0 +1,65 @@
+{
+    "config": {
+        "byzantiumBlock": 0,
+        "chainId": 2260,
+        "constantinopleBlock": 0,
+        "contractDeployerAllowListConfig": {
+            "adminAddresses": [
+                "0xed34c708d1852f92810b58fd4cd901967929bd45",
+                "0x0275573cd8f8f3115840f213bec7ec196ffb1100",
+                "0x8db97c7cece249c2b98bdc0226cc4c2a57bf52fc"
+            ],
+            "blockTimestamp": 0
+        },
+        "durangoTimestamp": 0,
+        "eip150Block": 0,
+        "eip155Block": 0,
+        "eip158Block": 0,
+        "feeConfig": {
+            "gasLimit": 8000000,
+            "targetBlockRate": 2,
+            "minBaseFee": 25000000000,
+            "targetGas": 15000000,
+            "baseFeeChangeDenominator": 36,
+            "minBlockGasCost": 0,
+            "maxBlockGasCost": 1000000,
+            "blockGasCostStep": 200000
+        },
+        "homesteadBlock": 0,
+        "istanbulBlock": 0,
+        "muirGlacierBlock": 0,
+        "petersburgBlock": 0,
+        "subnetEVMTimestamp": 0,
+        "txAllowListConfig": {
+            "adminAddresses": [
+                "0x0275573cd8f8f3115840f213bec7ec196ffb1100",
+                "0x8db97c7cece249c2b98bdc0226cc4c2a57bf52fc"
+            ],
+            "blockTimestamp": 0
+        }
+    },
+    "nonce": "0x0",
+    "timestamp": "0x0",
+    "extraData": "0x",
+    "gasLimit": "0x7a1200",
+    "difficulty": "0x0",
+    "mixHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "coinbase": "0x0000000000000000000000000000000000000000",
+    "alloc": {
+        "0275573cd8f8f3115840f213bec7ec196ffb1100": {
+            "balance": "0xdd18008142edc517f5a3dc3621cabd215e00000"
+        },
+        "8db97c7cece249c2b98bdc0226cc4c2a57bf52fc": {
+            "balance": "0xf254a6987e912b210a763d1bad372e230dd90680000"
+        },
+        "ed34c708d1852f92810b58fd4cd901967929bd45": {
+            "balance": "0x1f2b9dc2e650ea7113372a31bd80f7d3634dac0000"
+        }
+    },
+    "airdropHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "airdropAmount": null,
+    "number": "0x0",
+    "gasUsed": "0x0",
+    "parentHash": "0x0000000000000000000000000000000000000000000000000000000000000000",
+    "baseFeePerGas": null
+}
